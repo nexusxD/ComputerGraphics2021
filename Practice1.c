@@ -28,9 +28,9 @@ int main() {
 		
     	pend=((float)(y2-y1))/((float)(x2-x1));
     
-		int res= ((pend*(i-x1))+y1);
+		float res= ((pend*(i-x1))+y1);
 	
-		printf("%0.2f\n", round(res));
+		printf("%0.0f\n", round(res));
 	}
     return 0;
 }

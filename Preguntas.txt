@@ -1,0 +1,4 @@
+1.- Dev-C++5.11
+2.- GCC 4.9.2 
+3.- Yes: Point-Point, Point-slope, the general equation for the lines
+4.- nexusxD

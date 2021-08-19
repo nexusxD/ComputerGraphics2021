@@ -1,2 +1,0 @@
-ComputerGraphics2021
-López Rodríguez Emmanuel Antonio
